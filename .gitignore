@@ -1,0 +1,8 @@
+# Generated database and reports
+/output/
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
